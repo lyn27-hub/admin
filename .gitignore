@@ -1,0 +1,15 @@
+# Laravel
+BACKEND/vendor
+BACKEND/.env
+BACKEND/storage/logs/*
+BACKEND/bootstrap/cache/*
+
+# React
+FRONTEND/node_modules
+FRONTEND/dist
+FRONTEND/build
+FRONTEND/.env
+
+# General
+.DS_Store
+Thumbs.db
